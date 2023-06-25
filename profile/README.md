@@ -11,12 +11,13 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 
 **KHUDA는 팀원들끼리 가르치고 배우며, 본인의 한계를 뛰어넘어 빠르게 성장하고자 하는 문화를 만들어 가고 있습니다. 저희는 동아리에서 배우기만 하는 분보다 동아리를 같이 만들어 나갈 분들을 원합니다.**
 
+🔎  KHUDA 3기의 활동을 더 자세히 알고싶다면?  [3기 활동 정리 노션 바로가기](https://www.notion.so/KHUDA-3-9f65e63f178747b991266efeb64e833d?pvs=4)
 
 
-## 📌 [ KHUDA 3기 커리큘럼 소개 ]
+## 🖊️ KHUDA 3기 커리큘럼 소개
 ![image](https://user-images.githubusercontent.com/90135669/228568148-72d765d8-0553-40c1-a840-e383481e3e27.png)
 
-## 📌 [ 겨울방학 토이 프로젝트 ] 
+## 1️⃣ 겨울방학 토이 프로젝트 
 * 일시 : 2023년 3월 15일 18:00
 * 장소 : 경희대학교 전자정보대학 227호
 * 프로젝트 카드뉴스 : [인스타그램 게시물 바로가기](https://www.instagram.com/p/CqNfC0ur0Ys/?igshid=YmMyMTA2M2Y=)
@@ -31,7 +32,7 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 |6|발라드 음악 가사 토픽 추출 및 감정분석을 통한 이미지 생성|테스트3|
 
 
-## 📌 [ 관심 분야 프로젝트 ] 
+## 2️⃣ 관심 분야 프로젝트
 * 일시 : 2023년 5월 31일 18:00
 * 장소 : 경희대학교 전자정보대학 136호
 * 프로젝트 카드뉴스 : 
@@ -49,12 +50,10 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 |9|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|테스트3|테스트3|
 |10|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|테스트3|테스트3|
 
-## 📌 [ 여름방학 프로젝트 ] 
+## 3️⃣ 여름방학 프로젝트
 * 7월 중 진행 예정
 
 ##  💭 문의
-KHUDA 회장 임소영 010-4162-8421  
-KHUDA 부회장 전진하 010-2590-9439  
-인스타 DM 문의 @khu_da_23  
+인스타 DM 문의 [@khu_da_23](https://www.instagram.com/khu_da_23/)
 
-👀 KHUDA 2기의 활동이 궁금하다면?  https://battle-sunspot-1a7.notion.site/2-249e56c1aa094e67b47fe86c9cbf3bc8
+🔎 KHUDA 2기의 활동이 궁금하다면? : [2기 활동 정리 노션 바로가기](https://battle-sunspot-1a7.notion.site/2-249e56c1aa094e67b47fe86c9cbf3bc8)
