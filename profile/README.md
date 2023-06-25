@@ -24,12 +24,12 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 
 |팀 번호|주제|발표 자료|
 |:------:|---|---|
-|1|이미지 인식 기술을 이용한 코디 추천 서비스 '무진장'|테스트3|
-|2|그림으로 알아보는 심리 분석|테스트3|
-|3|손글씨로 한글 글씨체 만들기|테스트3|
-|4|텍스트 감성분석과 이미지 데이터 기반의 이모티콘 추천시스템 개발|테스트3|
-|5|'ChatGPT'에 대한 감성분석 기반의 사람들의 감정 수치화|테스트3|
-|6|발라드 음악 가사 토픽 추출 및 감정분석을 통한 이미지 생성|테스트3|
+|1|이미지 인식 기술을 이용한 코디 추천 서비스 '무진장'|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859932/KHUDA_._1._.pptx) , [시연영상](https://github.com/khuda-3rd/.github/assets/90135669/0562d399-b712-4035-b790-5aba3494854d)|
+|2|그림으로 알아보는 심리 분석|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859939/KHUDA_3._2.ppt.pdf)|
+|3|손글씨로 한글 글씨체 만들기|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859940/3._.pdf)|
+|4|텍스트 감성분석과 이미지 데이터 기반의 이모티콘 추천시스템 개발|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859943/4._.pdf)|
+|5|'ChatGPT'에 대한 감성분석 기반의 사람들의 감정 수치화|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859945/ChatGpt.pdf)|
+|6|발라드 음악 가사 토픽 추출 및 감정분석을 통한 이미지 생성|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859946/KHUDA_._6._.pptx)|
 
 
 ## 2️⃣ 관심 분야 프로젝트
@@ -39,16 +39,19 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 
 |팀 번호|분야|주제|발표 자료|Repository|
 |:------:|---|---|---|---|
-|1|금융공학|기술적 분석을 통한 미국 주식 시각화 및 포트폴리오 최적화|테스트3|테스트3|
-|2|추천시스템|경희대 맛집 추천해드립니다 : 다양한 플랫폼 데이터를 활용한 장소 개인화 추천 세스템|테스트3|테스트3|
-|3|추천시스템|추천시스템을 활용한 경희대학교 생활협동조합 카페 문제점 해결|테스트3|테스트3|
-|4|컴퓨터비전|Voice Conversion을 이용한 내 가수 커버곡 듣기|테스트3|테스트3|
-|5|컴퓨터비전|Deep association metric을 활용한 simple online and real-time tracking|테스트3|테스트3|
-|6|컴퓨터비전|StyleGAN2를 이용한 이미지 생성|테스트3|테스트3|
-|7|자연어처리|한국어를 새로 배우는 외국인 대상의 Paraphrasing 모델 제작|테스트3|테스트3|
-|8|기타|에브리타임 강의평가 분석을 통한 강의 추천 알고리즘|테스트3|테스트3|
-|9|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|테스트3|테스트3|
-|10|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|테스트3|테스트3|
+|1|금융공학|기술적 분석을 통한 미국 주식 시각화 및 포트폴리오 최적화|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859950/KHUDA.2._.pptx)|준비중|
+|2|추천시스템|경희대 맛집 추천해드립니다 : 다양한 플랫폼 데이터를 활용한 장소 개인화 추천 세스템|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859958/KHUDA_._.pdf)|준비중|
+|3|추천시스템|추천시스템을 활용한 경희대학교 생활협동조합 카페 문제점 해결|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859961/2.pptx)|준비중|
+|4|컴퓨터비전|Voice Conversion을 이용한 내 가수 커버곡 듣기|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859965/KHUDA.2._VC.pptx), [시연영상](https://github.com/khuda-3rd/.github/assets/90135669/e40d6c4c-15b3-43ee-a898-08af49efe1af)|준비중|
+|5|컴퓨터비전|Deep association metric을 활용한 simple online and real-time tracking|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859971/Deep.association.metric.simple.online.and.real-time.tracking.pdf)|준비중|
+|6|컴퓨터비전|StyleGAN2를 이용한 이미지 생성|[발표PPT](https://github.com/khuda-3rd/.github/files/11859978/KHUDA_StyleGAN2.1.pdf)|준비중|
+|7|자연어처리|한국어를 새로 배우는 외국인 대상의 Paraphrasing 모델 제작|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859979/KHUDA_NLP.pdf)|준비중|
+|8|기타|에브리타임 강의평가 분석을 통한 강의 추천 알고리즘|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859981/LDA_.pdf)|준비중|
+|9|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859983/KHUDA.BDA._.1.pdf)|비공개|
+|10|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859986/2_.pptx)|비공개|
+
+❗️ BDA 공모전 참가 팀은 데이터 보안 유지를 위하여 코드를 비공개하였습니다. 양해부탁드립니다.
+
 
 ## 3️⃣ 여름방학 프로젝트
 * 7월 중 진행 예정
