@@ -22,14 +22,14 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 * 장소 : 경희대학교 전자정보대학 227호
 * 프로젝트 카드뉴스 : [인스타그램 게시물 바로가기](https://www.instagram.com/p/CqNfC0ur0Ys/?igshid=YmMyMTA2M2Y=)
 
-|팀 번호|주제|발표 자료|
-|:------:|---|---|
-|1|이미지 인식 기술을 이용한 코디 추천 서비스 '무진장'|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859932/KHUDA_._1._.pptx) , [시연영상](https://github.com/khuda-3rd/.github/assets/90135669/0562d399-b712-4035-b790-5aba3494854d)|
-|2|그림으로 알아보는 심리 분석|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859939/KHUDA_3._2.ppt.pdf)|
-|3|손글씨로 한글 글씨체 만들기|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859940/3._.pdf)|
-|4|텍스트 감성분석과 이미지 데이터 기반의 이모티콘 추천시스템 개발|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859943/4._.pdf)|
-|5|'ChatGPT'에 대한 감성분석 기반의 사람들의 감정 수치화|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859945/ChatGpt.pdf)|
-|6|발라드 음악 가사 토픽 추출 및 감정분석을 통한 이미지 생성|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859946/KHUDA_._6._.pptx)|
+|팀 번호|주제|팀원|발표 자료|
+|:------:|---|---|---|
+|1|이미지 인식 기술을 이용한 코디 추천 서비스 '무진장'|임소영, 정대균, 도유정, 박민아, 백지원, 이영석|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859932/KHUDA_._1._.pptx) , [시연영상](https://github.com/khuda-3rd/.github/assets/90135669/0562d399-b712-4035-b790-5aba3494854d)|
+|2|그림으로 알아보는 심리 분석|구태형,박준하,정유진,조민서,최보경,최용빈|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859939/KHUDA_3._2.ppt.pdf)|
+|3|손글씨로 한글 글씨체 만들기|전진하, 정혜주, 홍민혁, 한상진, 강지원, 이채린|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859940/3._.pdf)|
+|4|텍스트 감성분석과 이미지 데이터 기반의 이모티콘 추천시스템 개발|노명은,권정혁,김수연,문지원,윤성준|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859943/4._.pdf)|
+|5|'ChatGPT'에 대한 감성분석 기반의 사람들의 감정 수치화|송예지,서지은,임동휘,이제희,이지호|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859945/ChatGpt.pdf)|
+|6|발라드 음악 가사 토픽 추출 및 감정분석을 통한 이미지 생성|임정우,허준수,황동민,이은경,유혜지|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859946/KHUDA_._6._.pptx)|
 
 
 ## 2️⃣ 관심 분야 프로젝트
