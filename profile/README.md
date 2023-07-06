@@ -39,7 +39,7 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 
 |팀 번호|분야|주제|발표 자료|Repository|
 |:------:|---|---|---|---|
-|1|금융공학|기술적 분석을 통한 미국 주식 시각화 및 포트폴리오 최적화|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859950/KHUDA.2._.pptx)|준비중|
+|1|금융공학|기술적 분석을 통한 미국 주식 시각화 및 포트폴리오 최적화|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859950/KHUDA.2._.pptx)|[공개](https://github.com/khuda-3rd/team1_fin_portfolio-ta)|
 |2|추천시스템|경희대 맛집 추천해드립니다 : 다양한 플랫폼 데이터를 활용한 장소 개인화 추천 세스템|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859958/KHUDA_._.pdf)|준비중|
 |3|추천시스템|추천시스템을 활용한 경희대학교 생활협동조합 카페 문제점 해결|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859961/2.pptx)|[공개](https://github.com/khuda-3rd/team3_recsys_saenghyeop-cafe)|
 |4|컴퓨터비전|Voice Conversion을 이용한 내 가수 커버곡 듣기|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859965/KHUDA.2._VC.pptx), [시연영상](https://github.com/khuda-3rd/.github/assets/90135669/e40d6c4c-15b3-43ee-a898-08af49efe1af)|[공개](https://github.com/khuda-3rd/team8_cv_Voice-Conversion)|
