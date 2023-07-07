@@ -51,8 +51,8 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 |6|컴퓨터비전|StyleGAN2를 이용한 이미지 생성|[발표PPT](https://github.com/khuda-3rd/team6_cv_StyleGAN2/blob/main/team6_cv_StyleGAN2.pdf)|[공개](https://github.com/khuda-3rd/team6_cv_StyleGAN2)|
 |7|자연어처리|한국어를 새로 배우는 외국인 대상의 Paraphrasing 모델 제작|[발표 PPT](https://github.com/khuda-3rd/team7_nlp_paraphrasing/blob/main/team7_nlp_paraphrasing.pdf)|[공개](https://github.com/khuda-3rd/team7_nlp_paraphrasing)|
 |8|기타|에브리타임 강의평가 분석을 통한 강의 추천 알고리즘|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859981/LDA_.pdf)|준비중|
-|9|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|[발표 PPT](https://github.com/khuda-3rd/team9_10_BDA/blob/main/team9_etc_BDA.pdf)|비공개|
-|10|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|[발표 PPT](https://github.com/khuda-3rd/team9_10_BDA/blob/main/team10_etc_BDA.pdf)|비공개|
+|9|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|[발표 PPT](https://github.com/khuda-3rd/team9_10_BDA/blob/main/team9_etc_BDA.pdf)|[비공개](https://github.com/khuda-3rd/team9_10_BDA)|
+|10|기타|(BDA 공모전 트랙2)CJ더마켓 프라임 회원 예측 모델 개발|[발표 PPT](https://github.com/khuda-3rd/team9_10_BDA/blob/main/team10_etc_BDA.pdf)|[비공개](https://github.com/khuda-3rd/team9_10_BDA)|
 
 ❗️ BDA 공모전 참가 팀은 데이터 보안 유지를 위하여 코드를 비공개하였습니다. 양해부탁드립니다.
 
