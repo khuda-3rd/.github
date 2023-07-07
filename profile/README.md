@@ -13,9 +13,12 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 
 🔎  KHUDA 3기의 활동을 더 자세히 알고싶다면?  [3기 활동 정리 노션 바로가기](https://www.notion.so/KHUDA-3-9f65e63f178747b991266efeb64e833d?pvs=4)
 
+---
 
 ## 🖊️ KHUDA 3기 커리큘럼 소개
 ![image](https://user-images.githubusercontent.com/90135669/228568148-72d765d8-0553-40c1-a840-e383481e3e27.png)
+
+---
 
 ## 1️⃣ 겨울방학 토이 프로젝트 
 * 일시 : 2023년 3월 15일 18:00
@@ -31,6 +34,7 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 |5|'ChatGPT'에 대한 감성분석 기반의 사람들의 감정 수치화|송예지,서지은,임동휘,이제희,이지호|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859945/ChatGpt.pdf)|
 |6|발라드 음악 가사 토픽 추출 및 감정분석을 통한 이미지 생성|임정우,허준수,황동민,이은경,유혜지|[발표 PPT](https://github.com/khuda-3rd/.github/files/11859946/KHUDA_._6._.pptx)|
 
+---
 
 ## 2️⃣ 관심 분야 프로젝트
 * 일시 : 2023년 5월 31일 18:00
@@ -52,11 +56,16 @@ Big Data, AI, ML, Deep Learning 등의 용어는 이미 우리에게 친숙해�
 
 ❗️ BDA 공모전 참가 팀은 데이터 보안 유지를 위하여 코드를 비공개하였습니다. 양해부탁드립니다.
 
+---
 
 ## 3️⃣ 여름방학 프로젝트
 * 7월 중 진행 예정
 
-##  💭 문의
-인스타 DM 문의 [@khu_da_23](https://www.instagram.com/khu_da_23/)
+---
+
+##  💭 문의 
+인스타 DM 문의 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>](https://www.instagram.com/khu_da_23)
+
+🔎 KHUDA에서 진행중인 일정들을 확인하고 싶다면? [링크트리 바로 가기](https://linktr.ee/khuda2)
 
 🔎 KHUDA 2기의 활동이 궁금하다면? : [2기 활동 정리 노션 바로가기](https://battle-sunspot-1a7.notion.site/2-249e56c1aa094e67b47fe86c9cbf3bc8)
